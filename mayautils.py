@@ -71,9 +71,4 @@ class SceneFile(object):
                 Path = self.dir + "\\" + self.descriptor + '_v0' + str(CurrentVersion) + '.' + self.ext
                 pmc.system.saveAs(Path)
 
-        else if CurrentVersion = CurrentVersion
-
-                version + i
-
-
 
